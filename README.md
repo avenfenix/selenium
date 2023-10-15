@@ -15,9 +15,9 @@ pkg up -y && pkg rei libexpat
 
 
 
-https://www.reddit.com/r/termux/comments/16dzkhg/libexpatso1_not_found_termux/
 ## Referencias
 
+- [x](https://www.reddit.com/r/termux/comments/16dzkhg/libexpatso1_not_found_termux/) 
 - [Selenium en termux - tecnobillo](https://tecnobillo.com/sections/bonus/termux/sections/selenium-en-termux/selenium-en-termux.html) 
 
 # Selenium Raspberry PI
