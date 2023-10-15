@@ -1,3 +1,9 @@
+# Selenium Termux
+
+## Referencias
+
+- [Selenium en termux - tecnobillo] (https://tecnobillo.com/sections/bonus/termux/sections/selenium-en-termux/selenium-en-termux.html) 
+
 # Selenium Raspberry PI
 Intentando correr Selenium en una Raspberry Pi 4B armv8
 
