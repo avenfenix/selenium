@@ -9,4 +9,5 @@ wget https://github.com/electron/electron/releases/download/v28.0.0-alpha.2/chro
 
 ## Referencias
 
-[Electron Chromedrivers](https://github.com/electron/electron/releases)
+- [Electron - Github](https://github.com/electron/electron)
+- [Electron Chromedrivers](https://github.com/electron/electron/releases)
